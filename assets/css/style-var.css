@@ -1,0 +1,31 @@
+:root {
+  /** Font family */
+  --font-family: 'Poppins', sans-serif;
+
+  /** Font weights */
+  --fw-light: 300;
+  --fw-regular: 400;
+  --fw-semi-bold: 600;
+  --fw-bold: 700;
+
+  /** Font size */
+  --fs-small: 12px;
+  --fs-regular: 14px;
+  --fs-medium: 18px;
+  --fs-large: 36px;
+
+  /** Icon size */
+  --is-regular1: 40px;
+  --is-regular2: 50px;
+
+  /** Colors */
+  --cl-black: #444; /** Default font color */
+  --cl-primary: #9788A6;
+  --cl-secondary: #FDFF9C;
+  --cl-primary-2: #DDD2E8;
+  --cl-gray: #ababab;
+
+  /** Container paddings */
+  --cnt-rg: 1052px;
+  --cnt-sm: 24px;
+}
